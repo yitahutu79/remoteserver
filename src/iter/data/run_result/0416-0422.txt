@@ -1,0 +1,7 @@
+**init number 84
+Index(['que', 'ai_answer', 'actual_send_answer', 'refer_content',
+       'create_time', 'customer_origin_id', 'member_id', 'kb_ids',
+       'goods_name', 'order_status', 'refund_status'],
+      dtype='object')
+len of data: 39, cost 0.2366781234741211 seconds
+kb data process done----
